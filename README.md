@@ -72,8 +72,3 @@ Públicado en el topic:
 **Ventana de Registro de Usuarios:**
 
 ![Ventata de Registro de Usuarios](https://raw.githubusercontent.com/EduardoUT/CRUD-Alura-Hotel-ONE-Alura_Challenge/master/src/mx/com/alurahotel/imagenes/ventanaUsuario.PNG)
-
-**Autor 🧑:**
-
-| [<img src="https://avatars.githubusercontent.com/u/60370547?s=400&u=c31036d0dc68db0d1fe71e36211360a84fc923f8&v=4" width=115><br><sub>Eduardo Reyes Hernández</sub>](https://github.com/EduardoUT) |
-| :---: |
