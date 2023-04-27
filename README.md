@@ -34,10 +34,6 @@ Públicado en el topic:
 
 <h1 align="center">Vista de Ventanas 👁️</h1>
 
-**Menu Principal:**
-
-![Ventana Menú Principal](https://raw.githubusercontent.com/EduardoUT/CRUD-Alura-Hotel-ONE-Alura_Challenge/master/src/mx/com/alurahotel/imagenes/menuPrincipal.PNG)
-
 **Login:**
 
 ![Ventana Login](https://raw.githubusercontent.com/EduardoUT/CRUD-Alura-Hotel-ONE-Alura_Challenge/master/src/mx/com/alurahotel/imagenes/loginVentana.PNG)
